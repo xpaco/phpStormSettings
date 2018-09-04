@@ -1,0 +1,27 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-09-04T12:40:16</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.2.2.0.0</property>
+    <property name="modified">2018-09-04T19:01:03</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="PHP_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
