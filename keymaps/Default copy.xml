@@ -1,4 +1,13 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+  </action>
+  <action id="Macro.array=&gt;">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+  <action id="Macro.arrayShift=&gt;">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
   <action id="Macro.auto-semicolon">
     <keyboard-shortcut first-keystroke="shift f8" />
   </action>
