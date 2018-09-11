@@ -7,5 +7,11 @@
       <action id="EditorLeft" />
       <action id="EditorLeft" />
     </macro>
+    <macro name="function(){}">
+      <typing text-keycode="57:1">(</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="91:1">{</typing>
+      <action id="EditorEnter" />
+    </macro>
   </component>
 </application>
