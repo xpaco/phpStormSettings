@@ -1,5 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Macro.auto-semicolon">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="StepOut" />
 </keymap>
