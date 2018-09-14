@@ -20,5 +20,13 @@
       <action id="EditorRight" />
       <typing text-keycode="32:0;61:0;46:1;32:0">&amp;#x20;=&gt;&amp;#x20;</typing>
     </macro>
+    <macro name=")-&gt;">
+      <action id="EditorRight" />
+      <typing text-keycode="45:0;46:1">-&gt;</typing>
+    </macro>
+    <macro name="minus">
+      <action id="EditorRight" />
+      <typing text-keycode="45:0;46:1">-&gt;</typing>
+    </macro>
   </component>
 </application>

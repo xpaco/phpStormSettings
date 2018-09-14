@@ -2,6 +2,9 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
   </action>
+  <action id="Macro.)-&gt;">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" second-keystroke="ctrl alt minus" />
+  </action>
   <action id="Macro.array=&gt;">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
@@ -13,6 +16,9 @@
   </action>
   <action id="Macro.function(){}">
     <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Macro.minus">
+    <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
