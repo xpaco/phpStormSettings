@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Write" type="PHP" />
+      <mapping pattern="podbor-tura" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
