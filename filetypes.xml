@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="send-bid" type="PHP" />
       <mapping pattern="Write" type="PHP" />
       <mapping pattern="podbor-tura" type="PLAIN_TEXT" />
+      <mapping pattern="send-bid.phtml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
